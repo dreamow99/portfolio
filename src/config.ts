@@ -65,7 +65,7 @@ export const siteConfig = {
         "Developed multiple casual 2D and 3D games for mobile platfroms (Android, iOS) using Unity Engine, with some titles surpassing 5 million downloads on the Google Play Store",
         "Utilized Unity's NavMesh Agent to design and implement a character auto-combat mechanic",
         "Worked with DOTween to create smooth and visually appealing animations for both character movements and user interface elements",
-        "Developed custom Unity Editor Window tools to enable game designersto easily create and configure game levels",
+        "Developed custom Unity Editor Window tools to enable game designers to easily create and configure game levels",
         "Contributed to the full game development life-cycle, from initial concept and prototyping to deploymentand post-release updates",
         "Integrated third-party plugins and SDKs, including Firebase for analytics and notification services, as well as ad mediation platforms to optimize monetization strategies"
       ],
