@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#f69d5d",
   social: {
     email: "duyphd9@gmail.com",
-    linkedin: "https://www.linkedin.com/in/duyphm/",
+    // linkedin: "https://www.linkedin.com/in/duyphm/",
     //twitter: "https://x.com/rfitzio",
     github: "https://github.com/dreamow99",
   },
@@ -20,7 +20,8 @@ export const siteConfig = {
         "Developed core gameplay mechanics and implemented UI/UX systems",
         "Integrated and managed third-party SDKs",
         "Contributed to key decision-making for polishing and game feel optimization",
-        "Developed retention-focused features such as reward systems and engaging mini-games"
+        "Developed retention-focused features such as reward systems and engaging mini-games",
+        "Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes"
       ],
       link: "https://apkcombo.com/vi/merge-spider-train/merge.choo.choo.horror.train/",
       skills: ["Unity", "C#", "Git"],
@@ -36,11 +37,68 @@ export const siteConfig = {
       skills: ["Unity", "C#", "Git"],
     },
     {
+      name: "Alphabet Merge: Maze Puzzle",
+      descriptions: [
+        "Involved in the end-to-end development process from initial concept to launch",
+        "Developed core gameplay mechanics and implemented UI/UX systems",
+        "Integrated and managed third-party SDKs",
+        "Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes"
+      ],
+      link: "https://apkcombo.com/vi/alphabet-merge-maze-puzzle/alphabet.merge.maze.puzzle/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
+      name: "Monster Maker: Mix & Fight",
+      descriptions: [
+        "Implemented combat game modes",
+        "Developed engaging mini-games, assisted with polishing",
+        "Bug fixes and maintenance, analyzed crash analytics data for maintenance purposes"
+      ],
+      link: "https://apkcombo.com/vi/monster-maker-mix-fight/com.monstermaker.mix.makeover/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
+      name: "Nuts & Bolts Sort",
+      descriptions: [
+        "Assisted with polishing",
+      ],
+      link: "https://apps.apple.com/us/app/nuts-bolts-sort/id6473832108/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
+      name: "Stickman Clash: Combo Master",
+      descriptions: [
+        "Developed the main game loop based on the existing core combat platform",
+        "Integrated diagnostic data and analytics"
+      ],
+      link: "https://play.google.com/store/apps/details?id=com.threehp014.clash.combo.stickman.hero.puzzle.block/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
       name: "Guardian War: RPG Pixel Hero",
       descriptions: [
-        "Involved in post-launch operations, including bug fixing and regular content updates",
+        "Involved in post-launch operations, regular content updates",
+        "Bug fixes and maintenance"
       ],
       link: "https://apkcombo.com/vi/guardian-war-rpg-pixel-hero/com.fansipan.pixel.hero.action.rpg.adventure.games/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
+      name: "Pixel Squad: Idle RPG Legends",
+      descriptions: [
+        "Involved in post-launch operations, regular content updates",
+        "Bug fixes and maintenance"
+      ],
+      link: "https://apkcombo.com/vi/pixel-squad-idle-rpg-legends/com.pixel.squad.strategy.rpg.game/",
+      skills: ["Unity", "C#", "Git"],
+    },
+    {
+      name: "Stickman Dungeon: Idle RPG War",
+      descriptions: [
+        "Involved in UI polishing, new features and content updates",
+        "Bug fixes and maintenance"
+      ],
+      link: "https://apkcombo.com/vi/pixel-squad-idle-rpg-legends/com.pixel.squad.strategy.rpg.game/",
       skills: ["Unity", "C#", "Git"],
     },
   ],
@@ -107,6 +165,12 @@ export const siteConfig = {
       title: "Introduction to Game Design",
       dateRange: "2025",
       link: "https://coursera.org/share/354ac3e27ccd5b358eafdb71be9fee0e",
+    },
+    {
+      descriptiom: "Online course from CalArts",
+      title: "Story and Narrative Development for Video Games",
+      dateRange: "2025",
+      link: "https://coursera.org/share/be2da59839f86349c88d89d91ee3af90",
     },
     {
       descriptiom: "Issued by IIG Vietnam",
